@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queries", "Queries\Queries.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqIntroduction", "LinqIntroduction\LinqIntroduction.csproj", "{CF453BB5-C421-49A3-99B1-0A1FA9999E0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars", "Cars\Cars.csproj", "{797C8F1D-B7E0-45D6-BC94-45D73A05FB81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CF453BB5-C421-49A3-99B1-0A1FA9999E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF453BB5-C421-49A3-99B1-0A1FA9999E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF453BB5-C421-49A3-99B1-0A1FA9999E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797C8F1D-B7E0-45D6-BC94-45D73A05FB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797C8F1D-B7E0-45D6-BC94-45D73A05FB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797C8F1D-B7E0-45D6-BC94-45D73A05FB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797C8F1D-B7E0-45D6-BC94-45D73A05FB81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
