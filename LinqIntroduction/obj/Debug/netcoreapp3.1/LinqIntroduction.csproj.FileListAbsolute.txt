@@ -1,0 +1,13 @@
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.exe
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.deps.json
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.runtimeconfig.json
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.runtimeconfig.dev.json
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.dll
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\bin\Debug\netcoreapp3.1\LinqIntroduction.pdb
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.csprojAssemblyReference.cache
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.AssemblyInfoInputs.cache
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.AssemblyInfo.cs
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.dll
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.pdb
+C:\Users\tdavi\source\repos\Introduction\LinqIntroduction\obj\Debug\netcoreapp3.1\LinqIntroduction.genruntimeconfig.cache
