@@ -12,3 +12,4 @@ C:\Users\tdavi\source\repos\Introduction\Cars\obj\Debug\netcoreapp3.1\Cars.Assem
 C:\Users\tdavi\source\repos\Introduction\Cars\obj\Debug\netcoreapp3.1\Cars.dll
 C:\Users\tdavi\source\repos\Introduction\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
 C:\Users\tdavi\source\repos\Introduction\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
+C:\Users\tdavi\source\repos\Introduction\Cars\bin\Debug\netcoreapp3.1\manufacturers.csv
